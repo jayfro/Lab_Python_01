@@ -6,7 +6,6 @@ Type "help", "copyright", "credits" or "license" for more information.
   File "<stdin>", line 1
     Print "---------- Exercise 4 ----------"
                                            ^
-SyntaxError: invalid syntax
 >>> print "---------- Exercise 4 ----------"
 ---------- Exercise 4 ----------
 >>> first_name = "Benedictus"
